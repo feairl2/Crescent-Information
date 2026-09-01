@@ -1,0 +1,1 @@
+Added font adjustment functionality to the Appearance tab\nAdded custom Monaco font functionality to the Editor tab\nFixed Tab animation issues\nFixed the issue of Workspace files being deleted and then restored\nWhen Roblox needs to be updated, the UI must be loaded only after the update is complete
