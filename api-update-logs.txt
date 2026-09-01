@@ -1,1 +1,1 @@
-100% Myriad compatibility\nFixed WebSocket issues (e.g. LuaArmor)\nFixed rare getconnections crashes
+Fixed API Injector issue
