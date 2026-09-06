@@ -1,1 +1,1 @@
-Added an automatic debugging system to troubleshoot issues\nCheck for missing important files and alert when injecting/executing scripts\nFixed the issue of antivirus software not detecting the problem\nFixed injection failure issues in some devices.\nChange Home Information Reading Method
+Added 24-hour Key System (Sorry everyone)\nExplorer added more features\nWindows pagination settings added more pages\nFixed Roblox version check
