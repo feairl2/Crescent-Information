@@ -1,1 +1,2 @@
-Significantly optimized UI\n Better-looking dropdown menus\n New notification styles\n New settings pagination styles\n Fixed some known issues
+GHis
+Hi
