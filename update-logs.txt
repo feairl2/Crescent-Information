@@ -1,2 +1,1 @@
-GHis
-Hi
+Significantly optimized UI\nBetter-looking dropdown menus\nNew notification styles\nNew settings pagination styles\nFixed some known issues
