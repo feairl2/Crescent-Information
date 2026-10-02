@@ -1,1 +1,1 @@
-Significantly optimized UI\nBetter-looking dropdown menus\nNew notification styles\nNew settings pagination styles\nFixed some known issues
+Updated to version-02c37bc51a384b8f\n72 hours key\nFixed some ui bugs
