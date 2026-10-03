@@ -1,1 +1,1 @@
-Updated to version-02c37bc51a384b8f\n72 hours key\nFixed some ui bugs
+Fixed an issue where Launch Roblox caused Roblox to fail to open manually\nFixed an issue where Attach failed after Roblox restarted\nFixed an issue where Attach failed while Roblox was already running\nFixed an issue where the tab context menu was overlapped by the Explorer divider\nFixed an issue where antivirus false positives prevented downloading new Roblox versions
