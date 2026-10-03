@@ -1,1 +1,1 @@
-Updated to version-02c37bc51a384b8f
+Fixed Injection\nFixed an issue where injection fails after Roblox restarts\nFixed window flashing during initialization
