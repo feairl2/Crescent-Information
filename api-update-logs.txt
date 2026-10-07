@@ -1,1 +1,1 @@
-Fixed Injection\nFixed an issue where injection fails after Roblox restarts\nFixed window flashing during initialization
+Fixed Injection (fixed again)\nFixed crash issues\nStable Injection
