@@ -1,1 +1,1 @@
-Strengthened key system verification\nFixed an issue where injection failed\nRenamed "System" to "General" in the settings\nAdded tabs to the settings\nAdded "Confirm Close" to the Windows tab in the settings\nAdded "Default File Type" to the Explorer tab in the settings\nAdded "Confirm Delete" to the Explorer tab in the settings\nAdded "Show Hidden Files" to the Explorer tab in the settings
+Injector more stable\nUpdated Key system\nFixed Key system rate limit\nFixed Injector issues
