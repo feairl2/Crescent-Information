@@ -1,1 +1,1 @@
-Fine-tuned the style settings\nFixed the Save button for Output\nFixed the issue of Important file download failure\nFixed the issue of script execution failing despite successful injection\nFixed other known issues
+Added Grandma's UI Guard
