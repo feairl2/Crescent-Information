@@ -1,1 +1,1 @@
-Updated to version-9ac8595712b447a7\n9 new languages ​​added\nAPIService renamed to Injector\nUI optimized\nAll UI protections removed
+The UI has been redesigned
