@@ -1,1 +1,1 @@
-The UI has been redesigned
+Added "Start with Roblox"\nAdded Default Tab Name Prefix\nAdd Default File Name Prefix\nAdded Default Folder Name Prefix\nAdded 4 new Hotkeys\nFixed Smooth Scrolling\nFixed known UI issues\nNew ScriptHub script loading animation\nOptimized Settings UI\nOptimized Explorer UI\nCompleted full dictionaries for all languages
