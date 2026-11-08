@@ -1,1 +1,1 @@
-Added Multi Instance Manager
+New Injector\nNew Logo\nNew loading animation\nAdded Key Bypasser in ScriptHub\nAdded Auto Restart Roblox in Settings\nAdded Job ID in Multi Insants Manager\nOptimized Multi Insants Manager style\nOptimized notification style\nOptimized settings style\nOptimized all menu styles and animations\nFixed issues with the ScriptHub Filter menu
