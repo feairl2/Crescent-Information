@@ -1,1 +1,1 @@
-Updated to version-4ea8e85481e34f46\nFixed AutoExec/Workspace
+Added attach notification and load notification
