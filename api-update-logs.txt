@@ -1,1 +1,1 @@
-Updated to version-2c6fd5e09aaf4cfa\n90% debUNC\nRewrote initialization
+Fixed freeze on first game join\nFixed hitch when leaving a game\nMade instance hooks lighter during teardown
