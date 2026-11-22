@@ -1,1 +1,1 @@
-Fixed freeze on first game join\nFixed hitch when leaving a game\nMade instance hooks lighter during teardown
+Async compilation for large scripts\nDedicated bytecode queue for non-blocking execution\nDynamic stack growth to prevent crashes on heavy scripts\nOptimized compile settings for extreme payloads
