@@ -1,1 +1,1 @@
-Async compilation for large scripts\nDedicated bytecode queue for non-blocking execution\nDynamic stack growth to prevent crashes on heavy scripts\nOptimized compile settings for extreme payloads
+Added runtime execution protection\nImplemented key validation layer\nAdded anti-tamper integrity checks
