@@ -1,1 +1,1 @@
-Fixed an issue causing delays when executing scripts\nFixed an issue where scripts would suddenly fail to execute\nFixed an issue where the Internal Update failed to download Module.dll
+Fixed an issue where scripts could not be executed after a certain number of seconds
